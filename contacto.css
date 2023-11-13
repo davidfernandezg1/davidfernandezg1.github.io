@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    margin: 0;
+
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.formulario {
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    width: 80%;
+    max-width: 500px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+label {
+    margin-top: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 95%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+textarea {
+    height: 100px;
+}
+
+input[type="submit"] {
+    background-color: #333;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}

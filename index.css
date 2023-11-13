@@ -1,0 +1,36 @@
+.eminem {
+    float: left;
+    width: 40%;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+}
+
+.eminemperfil {
+    text-align: center;
+    margin-top: 35;
+    margin-left: 25px;
+    background-color: white;
+}
+
+article {
+    float: right;
+    width: 50%; 
+    margin: 20px;
+    padding: 20px;
+    margin-top: 2px;
+    background-color: white;
+}
+
+article img {
+    width: 100%; 
+    height: auto;
+}
+
+article h3 {
+    color: #333;
+    
+}
+footer {
+    clear: both;
+}
